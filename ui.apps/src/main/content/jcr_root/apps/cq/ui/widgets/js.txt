@@ -1,0 +1,4 @@
+#base=source
+
+widgets/form/MultiCompositeField.js
+widgets/form/RichText.js

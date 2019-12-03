@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/brands">
+        <exclude pattern="/apps/brands/install" />
+    </filter>
+</workspaceFilter>
